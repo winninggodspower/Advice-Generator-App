@@ -65,4 +65,4 @@ Im currently working on my personal article site. where users will be able to po
 - Website - [Winning Godspower](https://winningtech.tk)
 - Frontend Mentor - [@winning godspower](https://www.frontendmentor.io/profile/winninggodspower)
 - Facebook - [@winning godspower](https://www.facebook.com/winninggodspower)
-- Phone - <a href="tel:+2348123902721">08123902721<a>
+- Phone - <a href="tel:+2348123902721">08123902721</a>
