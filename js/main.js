@@ -31,5 +31,5 @@ function getAdvice() {
         alert('unable to fetch quotes. check your internet connection')
     })
 }
-
+window.onload = getAdvice
 Dice.addEventListener('click', getAdvice)
